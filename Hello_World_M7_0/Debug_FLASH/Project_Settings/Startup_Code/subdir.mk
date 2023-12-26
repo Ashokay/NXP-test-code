@@ -5,27 +5,27 @@
 # Add inputs and outputs from these tool invocations to the build variables 
 S_SRCS += \
 ../Project_Settings/Startup_Code/Vector_Table.s \
-../Project_Settings/Startup_Code/startup_cm7.s 
+../Project_Settings/Startup_Code/startup_cm7.s
 
 C_SRCS += \
 ../Project_Settings/Startup_Code/exceptions.c \
 ../Project_Settings/Startup_Code/nvic.c \
 ../Project_Settings/Startup_Code/startup.c \
-../Project_Settings/Startup_Code/system.c 
+../Project_Settings/Startup_Code/system.c
 
 OBJS += \
-./Project_Settings/Startup_Code/Vector_Table.o \
-./Project_Settings/Startup_Code/exceptions.o \
-./Project_Settings/Startup_Code/nvic.o \
-./Project_Settings/Startup_Code/startup.o \
-./Project_Settings/Startup_Code/startup_cm7.o \
-./Project_Settings/Startup_Code/system.o 
+../Project_Settings/Startup_Code/Vector_Table.o \
+../Project_Settings/Startup_Code/exceptions.o \
+../Project_Settings/Startup_Code/nvic.o \
+../Project_Settings/Startup_Code/startup.o \
+../Project_Settings/Startup_Code/startup_cm7.o \
+../Project_Settings/Startup_Code/system.o
 
 C_DEPS += \
-./Project_Settings/Startup_Code/exceptions.d \
-./Project_Settings/Startup_Code/nvic.d \
-./Project_Settings/Startup_Code/startup.d \
-./Project_Settings/Startup_Code/system.d 
+../Project_Settings/Startup_Code/exceptions.d \
+../Project_Settings/Startup_Code/nvic.d \
+../Project_Settings/Startup_Code/startup.d \
+../Project_Settings/Startup_Code/system.d
 
 
 # Each subdirectory must supply rules for building sources it contributes

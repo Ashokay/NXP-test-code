@@ -6,6 +6,9 @@
 
 RM := rm -rf
 
+# Include paths
+INCLUDES := -I/git_workspace/NXP-test-code/Hello_World_M7_0/generate/src/
+
 # All of the sources participating in the build are defined here
 -include sources.mk
 -include src/subdir.mk
@@ -33,7 +36,7 @@ Hello_World_M7_0.siz \
 all: Hello_World_M7_0.elf secondary-outputs
 
 # Tool invocations
-Hello_World_M7_0.elf: $(OBJS) C:/Users/dell/workspaceS32DS.3.5/Hello_World/Hello_World_M7_0/Project_Settings/Linker_Files/linker_flash_s32k322.ld $(USER_OBJS)
+Hello_World_M7_0.elf: $(OBJS) ../Hello_World_M7_0/generate/src/linker_flash_s32k322.ld $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: Standard S32DS C Linker'
 	arm-none-eabi-gcc -o "Hello_World_M7_0.elf" "@Hello_World_M7_0.args"  $(USER_OBJS)

@@ -8,13 +8,13 @@
 -DS32K322
 -DCPU_S32K322
 -DCPU_CORTEX_M7
--IC:/Users/dell/workspaceS32DS.3.5/Hello_World/Hello_World_M7_0/generate/include
--IC:/Users/dell/workspaceS32DS.3.5/Hello_World/Hello_World_M7_0/RTD/include
+-I"/home/ashoka/git_workspace/NXP-test-code/Hello_World_M7_0/generate/include"
+-I"/home/ashoka/git_workspace/NXP-test-code/Hello_World_M7_0/RTD/include"
 -I"C:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/BaseNXP_TS_T40D34M30I0R0/header"
 -I"C:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/BaseNXP_TS_T40D34M30I0R0/include"
 -I"C:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/Platform_TS_T40D34M30I0R0/include"
 -I"C:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/Platform_TS_T40D34M30I0R0/startup/include"
--I"C:/Users/dell/workspaceS32DS.3.5/Hello_World/Hello_World_M7_0/board"
+-I"/home/ashoka/git_workspace/NXP-test-code/Hello_World_M7_0/board"
 -Os
 -funsigned-char
 -fomit-frame-pointer

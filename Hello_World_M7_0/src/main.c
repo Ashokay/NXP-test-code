@@ -29,7 +29,7 @@
 */
 
 /* Including necessary configuration files. */
-#include "Mcal.h"
+#include "stdio.h"
 
 volatile int exit_code = 0;
 /* User includes */

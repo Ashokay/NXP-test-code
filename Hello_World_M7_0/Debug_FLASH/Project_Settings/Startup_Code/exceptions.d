@@ -12,8 +12,8 @@ Project_Settings/Startup_Code/exceptions.o: \
  C\:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/BaseNXP_TS_T40D34M30I0R0/include/IpVersionMacros.h \
  C\:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/BaseNXP_TS_T40D34M30I0R0/include/Reg_eSys.h \
  C\:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/BaseNXP_TS_T40D34M30I0R0/include/OsIf_Internal.h \
- C\:/Users/dell/workspaceS32DS.3.5/Hello_World/Hello_World_M7_0/generate/include/OsIf_Cfg.h \
- C\:/Users/dell/workspaceS32DS.3.5/Hello_World/Hello_World_M7_0/generate/include/OsIf_ArchCfg.h \
+ /home/ashoka/git_workspace/NXP-test-code/Hello_World_M7_0/generate/include/OsIf_Cfg.h \
+ /home/ashoka/git_workspace/NXP-test-code/Hello_World_M7_0/generate/include/OsIf_ArchCfg.h \
  C\:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/BaseNXP_TS_T40D34M30I0R0/include/StandardTypes.h \
  C\:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/BaseNXP_TS_T40D34M30I0R0/header/S32K322_SYSTICK.h \
  C\:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/BaseNXP_TS_T40D34M30I0R0/header/S32K322_COMMON.h \
@@ -31,8 +31,8 @@ C\:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/BaseNXP_TS_T40D34M30I0R0/
 C\:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/BaseNXP_TS_T40D34M30I0R0/include/IpVersionMacros.h:
 C\:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/BaseNXP_TS_T40D34M30I0R0/include/Reg_eSys.h:
 C\:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/BaseNXP_TS_T40D34M30I0R0/include/OsIf_Internal.h:
-C\:/Users/dell/workspaceS32DS.3.5/Hello_World/Hello_World_M7_0/generate/include/OsIf_Cfg.h:
-C\:/Users/dell/workspaceS32DS.3.5/Hello_World/Hello_World_M7_0/generate/include/OsIf_ArchCfg.h:
+/home/ashoka/git_workspace/NXP-test-code/Hello_World_M7_0/generate/include/OsIf_Cfg.h:
+/home/ashoka/git_workspace/NXP-test-code/Hello_World_M7_0/generate/include/OsIf_ArchCfg.h:
 C\:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/BaseNXP_TS_T40D34M30I0R0/include/StandardTypes.h:
 C\:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/BaseNXP_TS_T40D34M30I0R0/header/S32K322_SYSTICK.h:
 C\:/NXP/S32DS.3.5/S32DS/software/PlatformSDK_S32K3/RTD/BaseNXP_TS_T40D34M30I0R0/header/S32K322_COMMON.h:

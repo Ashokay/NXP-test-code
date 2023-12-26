@@ -46,6 +46,7 @@ extern "C"{
  2) needed interfaces from external units
  3) internal and external interfaces from this unit
 ==================================================================================================*/
+
 #include "S32K322_MC_CGM.h"
 #include "S32K322_FIRC.h"
 #include "S32K322_SIRC.h"

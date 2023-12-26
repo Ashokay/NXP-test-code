@@ -126,7 +126,7 @@ extern "C"{
 /* Clock start section code */
 #define MCU_START_SEC_CODE
 
-#include "Mcu_MemMap.h"
+/*#include "Mcu_MemMap.h"*/
 
 
 /*!
